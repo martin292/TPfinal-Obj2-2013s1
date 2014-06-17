@@ -19,4 +19,4 @@ Al terminar de escribir, el profesor repartió los textos entre los grupos
 
 Cada grupo debía identificar las palabras que no se usaron y las que si, estas ultimas si se usaron correctamente
 
-Al final el profesor leyó los textos y explico lo que le parecía mal
+Por ultimo el profesor leyó los textos y explico cuales fueron las palabras mal utilizadas
